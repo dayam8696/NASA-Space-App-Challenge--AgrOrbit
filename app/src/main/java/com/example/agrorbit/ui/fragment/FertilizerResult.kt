@@ -14,6 +14,7 @@ class FertilizerResult : BaseFragments() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+       // return binding.root
         return binding.root
     }
 
