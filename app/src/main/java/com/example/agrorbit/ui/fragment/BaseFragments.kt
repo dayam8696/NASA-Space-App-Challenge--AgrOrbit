@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import com.example.agrorbit.databinding.BaseFragmentBinding
 import com.example.agrorbit.ui.activites.MainActivity
 
-open class BaseFragments :Fragment() {
+open class  BaseFragments :Fragment() {
     private val binding by lazy { BaseFragmentBinding.inflate(layoutInflater)}
     override fun onCreateView(
         inflater: LayoutInflater,
