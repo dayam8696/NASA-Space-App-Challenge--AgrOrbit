@@ -6,18 +6,18 @@
     android:iconTint="#0E5F0E"
     android:title="Home"/>
 
-<!--    <item-->
-<!--        android:id="@+id/diseaseDetectionFragment"-->
-<!--        android:icon="@drawable/baseline_search_24"-->
-<!--        android:iconTint="#0E5F0E"-->
-<!--        android:title="DP"/>-->
+    <item
+        android:id="@+id/diseaseDetectionFragment"
+        android:icon="@drawable/baseline_search_24"
+        android:iconTint="#0E5F0E"
+        android:title="DP"/>
 
 
-<!--    <item-->
-<!--        android:id="@+id/weatherFragment"-->
-<!--        android:icon="@drawable/baseline_wb_sunny_24"-->
-<!--        android:iconTint="#0E5F0E"-->
-<!--        android:title="Weather"/>-->
+    <item
+        android:id="@+id/weatherFragment"
+        android:icon="@drawable/baseline_wb_sunny_24"
+        android:iconTint="#0E5F0E"
+        android:title="Weather"/>
 
 
 </menu>
