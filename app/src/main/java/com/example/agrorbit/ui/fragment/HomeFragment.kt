@@ -34,7 +34,7 @@ class HomeFragment : BaseFragments() {
             findNavController().navigate(R.id.action_homeFragment_to_secondFragment)
         }
         binding.btndisease.setOnClickListener {
-            findNavController().navigate(R.id.action_homeFragment_to_diseaseDetectionFragment)
+        findNavController().navigate(R.id.action_homeFragment_to_diseaseDetectionFragment)
         }
         binding.btnfertilizer.setOnClickListener {
             findNavController().navigate(R.id.action_homeFragment_to_fertilizerFragment2)
@@ -44,7 +44,7 @@ class HomeFragment : BaseFragments() {
         }
 
         binding.btnhmgrdn.setOnClickListener {
-            findNavController().navigate(R.id.action_homeFragment_to_agroBlogFragment)
+           findNavController().navigate(R.id.action_homeFragment_to_agroBlogFragment)
         }
 
     }
